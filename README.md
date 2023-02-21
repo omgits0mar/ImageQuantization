@@ -26,4 +26,4 @@ To compress an image, run the program.cs script. Choose The image you need to co
 ## Documentation
 
 For more details on the explanation ide, implementation, results and running time, please see the 
-![ImageQuantization.docx](Image Quantization/Image Quantization.docx)
+! [ImageQuantization.docx](Image Quantization/Image Quantization.docx)
