@@ -19,6 +19,12 @@ This project also includes an implementation of image segmentation using the K-m
 
 The implemented image compression technique is based on the color quantization algorithm. The idea is to reduce the number of colors in the image, and then encode the image using a run-length encoding method.
 
+## Methodologies
+
+- Priority queue
+- Kruksal / Prim's algorithm for finding the minimum spanning tree
+- Single linkage clustering
+
 ## Usage
 
 To compress an image, run the program.cs script. Choose The image you need to compress and choose the 'K' number of clusters. You can enjoy the GUI while the code does his jobe to quantize and compress the size of your image.
@@ -26,5 +32,5 @@ To compress an image, run the program.cs script. Choose The image you need to co
 ## Documentation
 
 For more details on the explanation ide, implementation, results and running time, please see the 
-[ImageQuantization.docx](Image Quantization/Image Quantization.docx)
+[ImageQuantization doc](Image Quantization/Image Quantization.docx)
 
